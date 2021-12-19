@@ -185,6 +185,7 @@ footer {
 }
 
 footer p {
+    font-size: 0.7em;
     padding: 5px;
     margin: 15px 0px 0px 0px;
 }
